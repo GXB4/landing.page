@@ -50,3 +50,17 @@ a:active {
   background-color: rgb(59, 94, 247);
   border-color: rgb(59, 94, 247);
 }
+
+.container-3 {
+display: flex;
+justify-content: center;
+}
+
+.box {
+  width: 150px;
+  border: 5px solid rgb(59, 94, 247);
+  padding: 50px;
+  margin: 20px;
+  height: 150px;
+  border-radius: 75px;
+}
