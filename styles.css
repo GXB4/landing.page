@@ -56,6 +56,12 @@ display: flex;
 justify-content: center;
 }
 
+.heading2 {
+  margin-bottom: 40px;
+  text-align: center;
+  margin-top: 20px;
+}
+
 .box {
   width: 150px;
   border: 5px solid rgb(59, 94, 247);
