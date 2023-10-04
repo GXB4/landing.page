@@ -71,8 +71,9 @@ a:active {
 }
 
 .container-3 {
-display: flex;
-justify-content: center;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
 }
 
 .heading2 {
@@ -88,4 +89,14 @@ justify-content: center;
   margin: 20px;
   height: 150px;
   border-radius: 75px;
+}
+
+.container-4 {
+  background-color: #E5E7EB;
+  padding: 200px;
+}
+
+.quote {
+  font-size: 36px;
+  color: #1F2937;
 }
