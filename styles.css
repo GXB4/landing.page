@@ -43,8 +43,10 @@ a:active {
   color: white;
   display: flex;
   padding-top: 100px;
+  padding-left: 100px;
 }
 
 .button {
-  background-color: lightskyblue;
+  background-color: rgb(59, 94, 247);
+  border-color: rgb(59, 94, 247);
 }
