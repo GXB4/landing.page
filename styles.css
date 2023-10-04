@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+}
+
+.container-1 {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.header {
+  color: white;
+  font-size: 14px;
+  margin-left: 150px;
+  flex: 1;
+}
+
+.navbar {
+  color: grey;
+  margin-right: 150px;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+}
+
