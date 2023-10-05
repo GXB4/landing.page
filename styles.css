@@ -126,4 +126,19 @@ a:active {
   margin: 20px;
   background-color: #3b5ef7;
   border-radius: 12px;
+  color: white;
+  text-align: right;
 }
+
+.sign {
+  padding-top: 30px;
+  text-align: left;
+}
+
+.para2 {
+  text-align: left;
+}
+
+
+
+
