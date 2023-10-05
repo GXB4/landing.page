@@ -44,6 +44,7 @@ a:active {
   display: flex;
   padding-top: 100px;
   padding-left: 150px;
+  font-size: 30px;
 }
 
 .container-2-5 {
@@ -99,4 +100,13 @@ a:active {
 .quote {
   font-size: 36px;
   color: #1F2937;
+  text-align: center;
+}
+
+.author {
+  text-align: right;
+  color: #1F2937;
+  padding-right: 125px;
+  font-weight: bold;
+  font-size: 18px;
 }
